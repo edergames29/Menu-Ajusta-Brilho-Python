@@ -1,0 +1,1 @@
+# Menu-Ajusta-Brilho-Python
